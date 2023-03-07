@@ -2,6 +2,7 @@
 #include "include/dog.h"
 #include "include/operations.h"
 
+
 int main()
 {
     Dog dog1{ "Pamelin" };
